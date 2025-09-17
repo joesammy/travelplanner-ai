@@ -1,0 +1,8 @@
+# Go build files
+/bin/
+/build/
+*.exe
+*.log
+
+# Environment variables
+.env
